@@ -1,0 +1,165 @@
+{
+   "_id": "940f43257c42e79ed2530dc7cf000cea",
+   "_rev": "49-3c6ec4466505fb612d4c1d61acaa7ef3",
+   "account_id": 148943,
+   "image": "uploads/pics/148943.jpeg",
+   "name": {
+       "fname": "Josephus Vincent",
+       "lname": "Francisco"
+   },
+   "data_of_birth": {
+       "month": "12",
+       "day": "10",
+       "year": "1995"
+   },
+   "gender": "Male",
+   "martial_status": "Single",
+   "identification": {
+       "identification_name": "TIN",
+       "identification_number": "708-758-050-000"
+   },
+   "file_attachment": [
+       {
+           "name": "148943_Josephus Vincent Francisco.pdf",
+           "type": "Resume",
+           "date": "July 13 2018"
+       }
+   ],
+   "nationality": "Philippines",
+   "permanent_residence": "Philippines",
+   "pregnant": "No",
+   "pending_visa_application": "No",
+   "active_visa": "No",
+   "personal_email": "josephusfrancisco@gmail.com",
+   "alternative_email": "jovitzzz@gmail.com",
+   "mobile_number": "+639995016570",
+   "telephone_number": "",
+   "address": "Victoria De Manila Condominium, 1655 Taft Ave. Barangay 696, District 5, Manila 1004, Philippines",
+   "postal_code": "1004",
+   "state/region": "National Capital Reg",
+   "city": "Metro Manila",
+   "facebook_id": "Aegon.10",
+   "linkedin_acc_id": "",
+   "skype_id": "vincent_6527",
+   "reffered_by": "",
+   "skills": [
+       {
+           "name": "HTML5",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "CSS3",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "Javascript",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "PHP",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "Bootstrap",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "jQuery",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "AJAX",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "Laravel 5.5",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "MySQL",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "MariaDB",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "JSON",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "Adobe Photoshop",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": ""
+       },
+       {
+           "name": "Adobe Flash Animation",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "Adobe After Effects",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "Adobe InDesign",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       },
+       {
+           "name": "Git",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "advance"
+       },
+       {
+           "name": "Microsoft Office",
+           "years_of_experience": "Less than 6 months",
+           "proficiency": "intermediate"
+       }
+   ],
+   "latest_job_title": "PHP Developer",
+   "has_been_working_since": 2018,
+   "home_working_environment": "Private Room",
+   "internet_speed": "0.52mbps",
+   "degree_level": "Bachelor/College Degree",
+   "major": "Information System",
+   "field_of_study": "Computer Science/Information Technology",
+   "institute/university": "Colegio de San Juan Samar",
+   "graduation_date": "Aprill 2017",
+   "location": "Philippines",
+   "trainings_and_seminars": "OJT - Computer Assistant Local Government Office August 2016 to October 2016 A Blueprint for good Human Relations Colegio San Juan Samar March 6 2017 Basic Animation Seminar-Workshop Divine Word College of Legazpi September 12 2013",
+   "languages_details": [
+       {
+           "language": "Filipino",
+           "spoken": "10",
+           "written": "10"
+       },
+       {
+           "language": "English",
+           "spoken": "9",
+           "written": "9"
+       }
+   ],
+   "employment_history": {
+       "company": "Remote Staff",
+       "position": "PHP Developer",
+       "period": "2018",
+       "to": "Present",
+       "duties_and_responsibilities": "",
+       "work_setup": "Office Based",
+       "salary_grade": "",
+       "benifits": ""
+   }
+}
