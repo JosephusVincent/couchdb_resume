@@ -1,0 +1,138 @@
+{
+   "_id": "JUAN_MIGUEL",
+   "_rev": "19-8ad0a9152b5c7efa30c58a4568f560a0",
+   "staff_overview": {
+       "first_name": "Juan Miguel",
+       "last_name": "Cortez",
+       "email": "jmpcortez@rtu.edu.ph",
+       "handphone_no": [
+           9772100408,
+           9068660167
+       ],
+       "skype_id": "miguel@remotestaff.com.ph",
+       "address": "40 Florante St.",
+       "city": "Mandaluyong City",
+       "postcode": 1550,
+       "skills": [
+           "Web Development",
+           "Mobile Development"
+       ]
+   },
+   "applicant_files": [
+       {
+           "file_extension": "pdf",
+           "is_show_resume": true,
+           "is_lock": false,
+           "date_created": "2018-07-24 10:12:27",
+           "permission": "USER",
+           "name": "148947_RESUME-CORTEZ,JUAN MIGUEL P.pdf",
+           "file_description": "RESUME",
+           "id": 143102
+       }
+   ],
+   "contact_information": {
+       "address": "40 Florante St.",
+       "city": "Mandaluyong City",
+       "postcode": "1550",
+       "tel_no": [
+           "N/A"
+       ],
+       "mobile_no": [
+           9972100408
+       ],
+       "referred_by": "",
+       "per_email": "cortezjmp@gmail.com.ph",
+       "alt_email": "cortezjmp@gmail.com.ph",
+       "skype_id": "migle@remotestaff.com.ph",
+       "facebook_id": "facbook.com/CortezMiggy",
+       "linked_in": "https://www.linkedin.com/in/juan-miguel-cortez-901864165/"
+   },
+   "Personal Information": {
+       "full_name": "Juan Miguel Cortez",
+       "marital_status": "Single",
+       "msia_new_ic_no": "703-269-292-000",
+       "age": 21,
+       "gender": "Male",
+       "Nationality": "Filipino",
+       "perma_residence": "PH",
+       "pending_visa_application": "No",
+       "active_visa_aus_dubai": "No"
+   },
+   "employment_history": [
+       {
+           "company_name": "",
+           "position_name": "",
+           "period": {
+               "period_month_from": "",
+               "period_year_from": "",
+               "period_month_to": "",
+               "period_year_to": ""
+           },
+           "duties_responsibilities": "",
+           "industry": "",
+           "work_setup": "",
+           "starting_salary_grade": "",
+           "ending_salary_grade": "",
+           "benefits": ""
+       }
+   ],
+   "work_preference": {
+       "employment_summary": {
+           "latest_job_title": "PHP DEVELOPER",
+           "has_been_working_since": "2018",
+           "preferred_interview_schedule": "",
+           "availability_status": ""
+       },
+       "position_desired": {
+           "first_position": "",
+           "second_position": "",
+           "third_position": "",
+           "experience_in_years": ""
+       },
+       "character_reference": {
+           "reference_name": "",
+           "reference_position": "",
+           "reference_company_name": "",
+           "reference_contact_no": "",
+           "reference_email_add": ""
+       }
+   },
+   "work_home_capabilities": {
+       "home_work_environment": "",
+       "internet_speed": "",
+       "hardware_type": "",
+       "brand_name_pk": "",
+       "processor_pk": "",
+       "operating_system_pk": "",
+       "ram_pk": "",
+       "description_pk": "",
+       "main_devices": [
+           {
+               "hardware_type": "",
+               "brand_name_fk": "",
+               "processor_fk": "",
+               "operationg_system_fk": "",
+               "ram_fk": "",
+               "description_fk": ""
+           }
+       ]
+   },
+   "educational_attainment": {
+       "college_name": "Rizal Technological University",
+       "college_degree_level": "Bachelor's Degree",
+       "college_major": "Software Engineering",
+       "college_field_of_study": "N/A",
+       "college_graduation_date": 2018,
+       "college_location": "Philippines",
+       "licensure_certification": "NC II CERTIFICATION",
+       "trainings": "N/A",
+       "seminars": "N/A"
+   },
+   "languages": [
+       {
+           "language": "Tagalog",
+           "spoken": "10",
+           "written": "10"
+       }
+   ]
+}
